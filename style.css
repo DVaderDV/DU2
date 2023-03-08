@@ -26,6 +26,7 @@ html {
     margin-right: auto;
     font-family: 'Nunito', sans-serif;
     height: 479px;
+    box-shadow: black 4px 6px 20px;
 }
 .box img{
     position: relative;
@@ -35,6 +36,7 @@ html {
     height: 150px;
     border-radius: 50%;
     border: 3px solid white;
+    box-shadow: black 4px 6px 20px;
    
 }
 h1{
